@@ -1,0 +1,31 @@
+/*header section*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-image:url('Banner\ Image.png');
+    max-width: 1320px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.banner{
+    color: #fff;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size:32px;
+    font-weight:400;
+    padding-top: 200px;
+    
+}
+.banner-title{
+    color: #fff;
+
+text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+}
