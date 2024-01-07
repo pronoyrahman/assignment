@@ -29,3 +29,27 @@ font-size: 72px;
 font-style: normal;
 font-weight: 900;
 }
+.second-section{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    padding: 80px;
+}
+.second{
+    color: #F00;
+font-size: 88px;
+font-weight: 700;
+line-height: normal;
+margin: 40px;
+}
+.second-para{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.second-title{
+    color: #070211;
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 40px;
+
+}
