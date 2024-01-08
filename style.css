@@ -373,3 +373,70 @@ button {
    text-align: center;
    
 }
+
+.nine{
+    max-width: 1600px;
+    margin: 0 auto;
+    background: #070211;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    border-radius: 16px;
+}
+.nine-para{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+padding-top: 120px;
+margin-left: 140px;
+}
+.nine-link{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-top: 120px;
+margin-left: 676px;
+}
+.nine-one{
+    display: flex;
+}
+.horizontal{
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin-left: 128px;
+}
+.nine-two{
+    display: block;
+    text-align: center;
+    margin: 60px;
+}
+.hrr{
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin-left: 128px; 
+}
+.nine-three{
+    display: flex;
+}
+.nine-three-first{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-left: 140px;
+margin-top: 48px;
+}
+.nine-three-second{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-top: 48px;
+margin-left: 836px;
+}
